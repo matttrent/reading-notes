@@ -1,7 +1,7 @@
 ---
 asset_id: D74F056173A982D9FB408E82C8B33F9E
 author: Peter GodfreySmith
-modified_date: '2017-10-03T01:28:04'
+modified_date: '2017-10-21T11:04:54'
 title: Other Minds
 ---
 
@@ -95,3 +95,27 @@ Suppose that by changing its colors a cephalopod affects the light that reaches 
 With an efference copy mechanism, as you decide to act, sending a “command” of some sort to your muscles, you also send a faint image of the same command (a “copy” of it, in a rough sense of that term) to the part of the brain that deals with visual input. This enables that part to take into account what your own motions are doing.
 
 If things don’t look as expected, that might be because something in the environment has changed, but it might also be because the action you tried to perform did not come out as planned. You often need to work
+
+For Dehaene and Naccache, the function of conscious thought is to make it possible for us to do novel, deliberate actions that require us to take the “big picture” into account.
+
+Inner speech does not live in a little box in your brain; inner speech is a way your brain creates a loop, intertwining the construction of thoughts and the reception of them
+
+Perhaps the most vivid of all forms of conscious thought are those in which we bring attention to bear on our own thought processes, reflect on them, and experience them as our own
+
+When you write something for yourself to read, there’s usually an essential role for time—the goal is memory
+
+### 7. Experience Compressed
+
+What is the point of building a large nervous system if your life is over in a year or two?
+
+Everyone will carry some of these mutations. Then if some lucky individual evades its predators and other natural dangers and lives for an unusually long time, it will eventually find things starting to go wrong in its body, as the effects of these mutations kick in. It will appear to have been “programmed to decline,” because the effects of those lurking mutations will appear on a schedule. The population has begun to evolve aging
+
+Williams’s main point can be introduced by asking a simple question about saving for retirement. Is it worth saving enough money so that you will live in luxury when you are 120?
+
+### 8. Octopolis
+
+the earlier date makes it much more likely that cephalopods evolved complex nervous systems at least twice, once in the lineage leading to octopuses and once in the lineage leading to cuttlefish and squid.
+
+Your memory of your last birthday is an episodic memory; your memory of how to swim is a procedural memory, and your memory of the location of France is a semantic memory
+
+The mind evolved in the sea. Water made it possible

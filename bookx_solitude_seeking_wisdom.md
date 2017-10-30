@@ -1,7 +1,7 @@
 ---
 asset_id: 23AF3BF1B3CEAE60B3CDD6C2486597FD
 author: Robert Kull
-modified_date: '2017-10-07T10:03:14'
+modified_date: '2017-10-14T08:57:54'
 title: Solitude
 ---
 
@@ -88,3 +88,102 @@ I often find it hard to let go of what might have been and stay with what actual
 ### Interlude: A Glance at Other Solitaries
 
 Shekhdar claims to have been disappointed to not directly experience the existence of God, but how could he? He kept his mind so full of trivial activity there was little possibility to notice God’s presence
+
+Avoidance has many forms. Commonly, when terror and loneliness wash over us and we fear being swept away, we avert our attention by keeping ourselves busy with activity or some other escape, such as reading or television, food or narcotics, or other people
+
+Patience seems to develop with the growing realization that we are not in charge of the world
+
+A third, and for me vital, commonality all solitaries seem to share is the experience of feeling vibrantly, often ecstatically, alive in a living world
+
+### July 2001
+
+An important step in learning to love him, the ducks, the trees and myself is to slow down and feel the world, rather than being so impatient to accomplish things.
+
+I talk about the need to surrender, but the experience of feeling weak, vulnerable, and dependent brings up feelings of shame. The shame comes partly from our strong cultural ideal of autonomy and self-reliance, and partly from my own deep rebellion and pride. I don’t want to be naked and ask for acceptance just as I am. Ah, but it’s cold and lonely inside these walls.
+
+Last night I sensed that the biological world that we lose by building a conceptual reality to buffer ourselves against uncertainty, suffering, and death is profound and meaningful
+
+Personal myth is a real risk. We tell stories about the past and forget that these stories are our own creations, built on selected aspects of experience. The stories describe a self-identity we come to believe in: “I did this or I thought that.” Once we believe the myth we ’ve created to be literally true, we become — in our own mind — the character in the myth. Then the real problems begin. We must now live up to our expectations for this character based on what he or she has done in the past — what we have created him or her to have done. When who we actually are does not behave the way we’ve created the hero of our myth to behave, we feel like a failure
+
+### Interlude: Dancing in the Hallowed Halls
+
+The ultimate meaning of any experience is simply itself. There is no need to categorize or analyze. Maslow asks, “What is the meaning of a leaf, a fugue, a sunset, a flower, a person?” And he answers, “They ‘mean’ themselves, explain themselves, and prove themselves
+
+I distinguish and wish to clump into groups that I might call cats or steamer ducks. I hold up a clear sheet of acetate in my mind and draw an outline around each of these things. This outline is the concept I (my culture) create to help organize my (our) experience. This is a useful process.
+The problem develops when the acetate becomes opaque, and we can no longer see through it to the flowing Suchness beyond; when all we experience are the outlines that we, ourselves, have drawn. At this point, we ’re no longer experiencing the actuality of life, but only our own abstractions and ideas about those abstractions
+
+Conceptual reality is necessary if we are to function in the world, but if we get stuck there and no longer feel the world directly, life loses its joy
+
+This debate is grounded in yet another false dichotomy: that mind and matter are fundamentally different and separate. But what if the fracture is due to how we conceptualize the world? Have we, in our thinking, split apart what is essentially the unified mindmatter “stuff ” of the universe
+
+### August 2001
+
+Sensing the loss and trying to be good enough to get it back might be the source of my perfectionism. But trying to be perfect is not the way home
+
+Usually we stay only a brief time in the wilderness and our disquiet doesn’t catch up with us. I’ve been here long enough that this has become my normal life, and all my usual concerns are in operation. But there are fewer distractions and escapes here, so I can see the process more clearly and must face my concerns more directly
+
+Solitude is liberating because the only limiting factor is your own capacity, but difficult because there are no other people to help catalyze growth. In solitude you pretty much must do it on your own.
+
+Care of the Soul
+
+What has happened to my flow of language? I fall mute before such wonder and beauty. I try to describe the delicate shades and patterns of shifting color as wind swirls water around immovable rock, but my images feel dull and trite. There is no dance between word and world. What I see and feel begs a sensuous tango, but my words march static and stiff in lines across the page.
+
+To truly face fear I must simply be with the experience and do nothing to avoid or attack it.
+
+### Interlude: The Urge to Be Alone
+
+Our language has wisely sensed the two sides of being alone. It has created the word loneliness to express the pain of being alone. And it has created the word solitude to express the glory of being alone
+
+In Solitude: A Philosophical Encounter, Philip Koch
+
+Koch also identifies five virtues — valued states or activities — most easily realized in solitude: Freedom, Attunement to Self, Attunement to Nature, Reflective Perspective, Creativity
+
+Alone in the wilderness, I often feel isolated not only from others (in my mind and heart) but also from the nonhuman world around me; from Spirit; from myself. At other times, with no change in physical circumstance, I feel fully integrated into the flow of the universe, which includes not only the world immediately around me but also my web of human relationships
+
+Not all men are called to be hermits, but all men need enough silence and solitude in their lives to enable the deep inner voice of their own true self to be heard at least occasionally.... If man is constantly exiled from his own home, locked out of his own spiritual solitude, he ceases to be a true person. He no longer lives as a man
+
+We each have a social identity, a persona held in place by our interactions with other people. In solitude, without others to mirror this persona, it begins to lose solidity and dissolve. The process can be terrifying, and one powerful aspect of solitude is that there are few easy escapes from such difficult experiences
+
+The ability to build a shelter, stay warm and dry, obtain and prepare food, repair clothing and damaged equipment, maintain personal health, and use a map to navigate on land or water are all necessary physical skills. It is also vital to have the psychospiritual tools and experience to deal with the mental effects of long solitude. There are various ways to do this, but most fundamental is the capacity to experience with equanimity (or to ignore) whatever arises in the mind.
+
+### October 2001
+
+One of the challenges of solitude is that potential or imagined danger can loom to fill the mind. Without other people to help maintain perspective, fear that would normally be manageable can overwhelm
+
+Today is Sunday, my day of rest. All week, now and then, I look forward to Sunday.
+ 
+I exercise just enough to ease my shoulder ache, do not meditate, reread a novel rather than philosophy or spiritual teaching, build a fire, and feel no obligation to sit outside in the rain and wind.
+ 
+Sunday is, perhaps, my hardest day. Unstructured and undisciplined, deep aches and longings wash over me and lie as heavy as gloom on my heart.
+ 
+On Sundays, even more than on other days, I escape into coffee, popcorn, and chocolate. I long to be elsewhere, but nowhere I can think of.
+
+I’m also going to give up coffee, cocoa, chocolate, sugar, and bread for at least a month. I’ve become more and more aware of how I use food and caffeine to escape physical and emotional pain and to change from feeling a sort of hollow depression to feeling pretty
+
+good
+
+### Interlude: Technology and Desire
+
+All technology should be assumed guilty until proven innocent.
+— DAVID BROWER
+
+Men have become the tools of their tools. ... Most of the luxuries, and many of the so called comforts of life, are not only not indispensable, but positive hindrances to the elevation of mankind.
+— HENRY DAVID THOREAU
+
+We have seriously confounded luxury with necessity in our culture, and can no longer differentiate between what we want in order to maintain a particular lifestyle (with its social relationships and sensual pleasures) and what we actually need for physical survival. We have confounded social identity with biological and spiritual being to the point of believing we will die if we lose our social standing, which is often based on the material wealth we have accumulated
+
+### November 2001
+
+Perhaps doing for the doing rather than for the result is a good thing. Why should we study nature only to share the information with others? Why not primarily for our own interest?
+
+I’ve noticed over and over these past days that it’s words — some kinds of words — spoken to myself or read that shift me from small to Big Mind. So words themselves are not a prison, but only certain uses of them. A lot of densely packed analytic words tend to tighten my mind. A few lyrical words often open an inner space. I need to remember this in my writing and speaking — both with others and with myself.
+
+### January 2002
+
+My craving for answers is really a longing for security. When I let go of that need, and step into unknowing and trust, I’m much more relaxed and peaceful
+
+Defenselessness is a question I’ve been struggling with for days. If I stop defending myself, will nature roll over me? I think the problem is seeing myself as a separate thing instead of as a process that’s an integral part of nature
+
+### Epilogue
+
+It’s fascinating how readily the mind creates and projects regular patterns onto the world, and how exciting it is to then “discover” those apparent patterns
