@@ -1,5 +1,33 @@
 # refx technical interview strategies
 
+1. resolve ambiguity
+   - what assumptions can I make about the input?
+   - what requirements does the output have?
+   - in the range of 3-5 questions, make all assumptions explicit
+2. do a largish example
+3. base questions
+   - how many solutions are there, and what work do I have to do for a given solution?
+   - what work do I have to do for each element?
+   - how do I move to the next element?
+   - how do I stop? are there any special cases?
+4. brute force solution
+   - state algorithmic complexity, ask if what they expect
+5. optimize
+   - are you making the right tradeoffs?  are you using all the info?
+   - optimize via bottlenecks, unnecessary work, duplicate work
+   - think best conceivable runtime
+   - pattern match?  simplify and generalize?  base case & build?  data structures?
+6. write pseudo code
+   - spend 5-7 minutes on pseudocode
+   - walk-through solution
+7. write actual code
+  - write main loop, with each subproblem as a method
+  - use as many data structures & classes as possible
+8. test
+   - invalid data
+   - base cases
+
+
 ## 5 steps to answer a question
 
 1. ask to resolve ambiguity

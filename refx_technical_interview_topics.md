@@ -20,24 +20,25 @@ stacks & queues
 
 linked lists
 
+- [ ] singly-linked, circular, doubly-linked
 - [x] creating a linked list
 - [x] node insertion, deletion
 - [x] runner technique — [cycle detection](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem)
 
 trees, tries
 
-- [ ] types of trees : binary / binary search / balanced / complete / perfect / full
+- [x] types of trees : binary / binary search / balanced / complete / full / perfect
 - [x] tree search
-- [ ] tree insertion
+- [x] tree insertion
 - [ ] tree deletion
 - [x] tries and querying strings — [hackerrank](https://www.hackerrank.com/challenges/ctci-contacts/submissions/code/56022959)
 - [x] [is this a bst](https://www.hackerrank.com/challenges/is-binary-search-tree/submissions/code/57355955)
 
 heaps
 
-- [ ] insert
-- [ ] extract min/max element
-- [ ] heap sort
+- [x] insert
+- [x] extract min/max element
+- [x] heap sort
 
 graphs
 
@@ -61,12 +62,12 @@ graph traversal
 
 searching
 
-- [ ] binary search
+- [x] binary search
 
 sorting
 
-- [x] bubble sort — [my solution](https://www.hackerrank.com/challenges/ctci-bubble-sort/submissions/code/55856902), also see [local work](/Users/mmt/Dropbox/Code/coding-interview)
-- [x] [merge sort](/Users/mmt/Dropbox/Code/coding-interview)
+- [ ] bubble sort — [my solution](https://www.hackerrank.com/challenges/ctci-bubble-sort/submissions/code/55856902), also see [local work](/Users/mmt/Dropbox/Code/coding-interview)
+- [ ] [merge sort](/Users/mmt/Dropbox/Code/coding-interview)
 - [ ] quick sort
 
 ## concepts
@@ -135,14 +136,17 @@ steps
 my questions
 
 1. what assumptions can I make about the input?
-2. what are my test cases? are they large enough and cover input assumptions?
-3. what requirements does the output have?
-4. what work do I have to do for a given solution?
+2. what requirements does the output have?
+3. do large example on board?
+4. how many solutions are there, and what work do I have to do for a given solution?
 5. what work do I have to do for each element?
 6. how do I move to the next element?
-7. how do I setup the problem?
-8. how do I stop?
-9. are there any special cases?
+7. how do I stop?
+8. are there any special cases?
+9. propose solution via pseudo-code in 5-7 mins
+10. what data structures & classes do I need?
+11. optimize via BUDs
+12. test cases if time
 
 optimization strategies
 
@@ -156,8 +160,6 @@ optimization strategies
 implementation strategies
 
 - pseudo-code main loop
-
-
 - use data structures liberally
 - implement each separate piece as a function
 

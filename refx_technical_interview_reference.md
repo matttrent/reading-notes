@@ -347,21 +347,15 @@ rebalance
 
 Right-Right case and Right-Left case:
 
--   If the balance factor of P is -2 then the right subtree outweighs the left 
-    subtree of the given node, and the balance factor of the right child (R) must be checked. The left rotation with P as the root is necessary.
-    -   If the balance factor of R is -1, a single left rotation (with P as 
-        the root) is needed (Right-Right case).
-    - If the balance factor of R is +1, two different rotations are needed.
-             The first rotation is a right rotation with R as the root. The second is a left rotation with P as the root (Right-Left case).
+- If the balance factor of P is -2 then the right subtree outweighs the left subtree of the given node, and the balance factor of the right child (R) must be checked. The left rotation with P as the root is necessary.
+- If the balance factor of R is -1, a single left rotation (with P as the root) is needed (Right-Right case).
+- If the balance factor of R is +1, two different rotations are needed. The first rotation is a right rotation with R as the root. The second is a left rotation with P as the root (Right-Left case).
 
 Left-Left case and Left-Right case:
 
--   If the balance factor of P is 2, then the left subtree outweighs the right 
-    subtree of the given node, and the balance factor of the left child (L) must be checked. The right rotation with P as the root is necessary.
-    -   If the balance factor of L is +1, a single right rotation (with P as 
-        the root) is needed (Left-Left case).
-    - If the balance factor of L is -1, two different rotations are needed. 
-             The first rotation is a left rotation with L as the root. The second is a right rotation with P as the root (Left-Right case).
+-   If the balance factor of P is 2, then the left subtree outweighs the right subtree of the given node, and the balance factor of the left child (L) must be checked. The right rotation with P as the root is necessary.
+-   If the balance factor of L is +1, a single right rotation (with P as the root) is needed (Left-Left case).
+-   If the balance factor of L is -1, two different rotations are needed. The first rotation is a left rotation with L as the root. The second is a right rotation with P as the root (Left-Right case).
 
 deletion --- $ O(\log(n)) $
 
@@ -801,8 +795,7 @@ inter-process communication (IPC)
 
 ### threads
 
-- thread is the smallest sequence of instructions that can be managed 
-  independently by the operating system scheduler
+- thread is the smallest sequence of instructions that can be managed independently by the operating system scheduler
 
 threads differ from processes in that:
 
@@ -895,10 +888,8 @@ requirements of deadlock
 
 mutual exclusion
 
-- general concept that only one concurrent process (or thread) has access to 
-  shared memory at a given time
-- all others must wait until they can take possesion of it, and signal for
-  others to wait
+- general concept that only one concurrent process (or thread) has access to shared memory at a given time
+- all others must wait until they can take possesion of it, and signal for others to wait
 - both hardware and software solutions
 
 context switch
@@ -917,11 +908,10 @@ context switch
 hardware
 
 -   requires atomic test and set instruction
-- in one instruction
+-   in one instruction
     - check value of a given address
     - and set it if it passes some conditional
-- _only_ way to ensure a process cannot be interrupted while grabbing 
-         shared resource
+-   _only_ way to ensure a process cannot be interrupted while grabbing shared resource
 
 ## memory
 
@@ -1037,34 +1027,37 @@ examples
 - hamiltonian path
 - circuit satisfiability
 
-### memoizing
+### recursion, memorization & dynamic programming
 
-- cache results so you don't have to recompute each time
+- lots of applications require some sort of traversal of a graph of possible sub-problems
+- first off, realize that most problems can be broken into sub-problems, and those sub-problems often overlap
+- recursion is a depth-first traversal of the space of sub-problems
+- solving
+  - bottoms-up, given the base case, how do you get to the n+1.  recommended because it's concrete
+  - top-down, more abstract.  how do you break a problem down into N sub-problems
+- cache results in one depth-first traversal, so the next traversal can use them
+- **memoization / dynamic programming:** solve complex problems by breaking them down into simpler subproblems, cache the results
 
 pseudocode for `factorial()`
 
-    function factorial (n is a non-negative integer)
-        if n is 0 then
-            return 1 [by the convention that 0! = 1]
-        else   
-            return factorial(n – 1) times n
-        end if
-    end function
+```python
+def factorial(n):
+ 	if n == 0:
+    	return 1	# base case
+  	return factorial(n-1) * n
+```
 
 pseudocode for memoized `factorial()`
 
-    function factorial (n is a non-negative integer)
-        if n is 0 then
-            return 1
-        else if n is in lookup-table then
-            return lookup-table-value-for-n
-        else
-            let x = factorial(n – 1) times n
-            store x in lookup-table in the nth slot
-            return x
-        end if
-    end function
+```python
+def factorial(n, _cache={}):
+	if n == 0:
+    	return 1	# base case
+  	elif n in _cache:
+  		return _cache[n]
 
-### dynamic programming
+  	result = factorial(n-1) * n
+	_cache[n] = result
+    return result
+```
 
-- solve complex problems by breaking them down into simpler subproblems
