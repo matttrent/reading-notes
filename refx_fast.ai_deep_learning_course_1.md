@@ -4,13 +4,13 @@
 
 See `03-state-farm-sample.ipynb`.
 
-- [x] redo dataset with different drivers split across train/validation sets
+- [x] redo dataset with different drivers split across train/validation sets
 - [x] linear model
 - [x] single hidden dense later
 - [x] Basic VGG-style CNN
 - [x] data augmentation
 - [x] data augmentation + batchnorm
-- [ ] find optimal data augmentation, then precompute 10x samples with that applied
+- [x] find optimal data augmentation, then precompute 10x samples with that applied
       - can this viably fit in memory?
 - [ ] batchnorm + dropout
 - [ ] imagenet vgg layers + fc layers with batchnorm & dropout

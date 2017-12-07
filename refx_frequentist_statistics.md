@@ -1,4 +1,4 @@
-# statistics
+# refx frequentist statistics
 
 ## general
 
@@ -28,90 +28,12 @@ randomized experiments are built on 4 properties:
 - **replicatable:** collecting enough data that the results they observe are generalizable to the greater population.  also documenting their methods clearly enough to be performed again
 - **blocked:** if studying the effect of the experiment on different types of subjects (e.g. low/high risk) they divide subjects and assign equal numbers of each to the control groups
 
-## probability
-
-**probability:** likelihood that an outcome would occurr if we observed a process infinitely many times
-
-**law of large numbers:** the proportion $\hat{p_n}$ of occurances with a particular outcome converges to the probability $p$
-
-**disjoint / mutually exclusive:** outcomes are said to be disjoint if they cannot both happen
-
-addition rule of disjoint outcomes
-
-$$
-P(A_1 \textrm{ or } A_2 \textrm{ or } \dots \textrm{ or } A_n) = 
-P(A_1) + P(A_2) + \dots + P(A_n)
-$$
-
-general addition rule, for both disjoint and non-disjoint outcomes.  simplifies to the disjoint addition rule when outcomes are disjoint.
-
-$$
-P(A \textrm{ or } B) = P(A) + P(B) - P(AB)
-$$
-
-the __complement__ of an event $A$ is denoted as $A^c$ and $A^c$ represnts all outcomes not in $A$ and are related s.t.
-
-$$
-P(A) = 1 - P(A^c)
-$$
-
-**marginal probability:** probabilities based on a single variable without condition on any other variable
-
-**join probability:** probability of two or more variables
-
-the __conditional probability__ of $A$ given $B$ is computed as
-
-$$
-P(A|B) = \frac{P(A \textrm{ and } B)}{P(B)}
-$$
-
-__general multiplication rule__, if $A$ and $B$ represent 2 outcomes
-
-$$
-P(A \textrm{ and } B) = P(A|B) \times P(B)
-$$
-
-if $A_1, \ldots, A_k$ represent all disjoint outcomes for a variable, then if $B$ is an event for another process, the sum of conditional probabilities equals 1
-
-$$
-P(A_1|B) + \cdots + P(A_k|B) = 1
-$$
-
-two processes are __independent__ if knowing the outcomes of one provides no information about the other
-
-## bayes theorem
-
-Bayes' theorem is given as
-
-$$
-P(A|B) = \frac{ P(B|A)P(A) }{ P(B) }
-$$
-
-consider the following conditional probability
-
-$$
-P(\textrm{ outcome } A_1 \textrm{ of variable 1 } | \textrm{ outcome } B \textrm{ of variable 2 })
-$$
-
-Bayes' Theorem states that the conditional probability can be identified by the following fraction:
-
-$$
-P(A_1|B) = 
-\frac
-{ P(B|A_1)P(A_1) }
-{ \sum_{i=1}^k P(B|A_i)P(A_i) }
-$$
-
-where $A_2, \dots, A_k$ represent all other possible outcomes of the first variable.
-
-In practice when working out conditional probabilities, consider using a **tree diagram**.
-
 ## random variables
 
 the __expected value__ of a random variable:
 
 $$
-E(X) = \sum_{i=1}^k x_iP(X=x_i)
+E(X) = \sum_{i=1}^k x_ip(X=x_i)
 $$
 
 since this is the mean of the expected variable, weighting each outcome by its probability $\mu$ may be used in place of $E(X)$
@@ -119,7 +41,7 @@ since this is the mean of the expected variable, weighting each outcome by its p
 the __variance__ of a random variable:
 
 $$
-\sigma^{2} = \sum_{j=1}^k (x_j - \mu)^{2} P(X = x_j)
+\sigma^{2} = \sum_{j=1}^k (x_j - \mu)^{2} p(X = x_j)
 $$
 
 where the __standard deviation__ $\sigma$ is the square root of the variance
@@ -140,7 +62,7 @@ $$
 Z = \frac{x-\mu}{\sigma}
 $$
 
-### geometric distribution
+### bernoulli distribution
 
 a **bernoulli random variable** has exactly 2 possible outcomes.  if $X$ is a random variable with probability of success $p$ then
 
@@ -149,59 +71,6 @@ $$
 \qquad
 \sigma = \sqrt{p(1-p)}
 $$
-
-a __geometric distribution__ arises from the repeated evaluation of a bernoulli variable form, describing the probability of finding the first success on the $n^{th}$ trial
-
-$$
-(1-p)^{n-1}p
-$$
-
-the mean and standard deviation are
-
-$$
-\mu = \frac{1}{p} 
-\qquad
-\sigma \ = \sqrt{\frac{1-p}{p^2}}
-$$
-
-### binomial distribution
-
-the __binomial distribution__ describes the probability of having exactly $k$ successes in $n$ independent bernoulli trials with probability $p$.  the trials must be fixed and independent, and each trial must have a binary outcome and share the same probability
-
-$$
-\binom{n}{k} p^k (1-p)^{n-k}
-$$
-
-the mean and standard deviation are
-
-$$
-\mu = np 
-\qquad
-\sigma = \sqrt{np(1-p)}
-$$
-
-when the sample size $n$ is sufficiently large that both $np$ and $n(1-p)$ are at least 10, the normal distribution can be used to approximate a binomial distribution with the same mean and standard deviation as the binomial distribution.
-
-the __negative binomial distribution__ describes the probability of observing the $k^{th}$ success on the $n^{th}$ trial.  all the same conditions apply as above.
-
-$$
-P(k^{th} \textrm{ success on } n^{th} \textrm{ trial}) = 
-\binom{n-1}{k-1}p^k(1-p)^{n-k}
-$$
-
-- in the binomial case we have a fixed number of trials and consider the number of successes.  
-- in the negative binomial case, we have a fixed number of successes and consider the number of trials to reach that number
-
-### poisson distribution
-
-the __poisson distribution__ is used for estimating the number of rare events over a unit of time.  for rate $\lambda$
-
-$$
-P(\textrm{observe } k \textrm{ rare events}) = 
-\frac{\lambda^k e^{-\lambda}}{k!}
-$$
-
-the mean and standard deviation are $\lambda$ and $\sqrt{\lambda}$ respectively.
 
 ## foundations for inference
 
@@ -220,7 +89,7 @@ $$
 Given a sample of $n$ observations, the **standard error** of the sample mean 
 $\bar{x}$ is
 $$
-SE = \frac{\sigma}{\sqrt{n}} 
+SE = \frac{\sigma}{\sqrt{n}}
 $$
 
 ### central limit theorem
