@@ -1,7 +1,7 @@
 ---
 asset_id: 8A552A27BAF9AF4C7919527C7B5BACDD
 author: Alex SoojungKim Pang
-modified_date: '2017-10-25T19:55:36'
+modified_date: '2017-12-11T12:05:18'
 title: Rest
 ---
 
@@ -16,6 +16,8 @@ By Alex SoojungKim Pang
 ## iBooks notes <a name="ibooks_notes_dont_delete"></a>
 
 ### 
+
+As a result, we see work and rest as binaries. Even more problematic, we think of rest as simply the absence of work, not as something that stands on its own or has its own qualities
 
 No longer could scientists afford to “concentrate for extended periods of time on one subject” or think deeply “in the silence of the study, confident that rivals would not disrupt their tranquil meditations
 
@@ -106,3 +108,127 @@ My mind often comes to a standstill after some hours indoors,” he said, but on
 The sudden and unexpected nature of the insights make for dramatic stories, but a closer look reveals that all of these examples follow Wallas’s model of preparation, incubation, and illumination
 
 Indeed, many studies show that walking has a detrimental effect on tasks that require focused thinking and attention to detail. “It’s not that we should all get treadmill desks and get on them all the time,” Oppezzo says, “because it turns out it’s probably only good for a couple types of thinking.”
+
+napping for an hour or more during the day—a nap long enough to allow one to dream—improves performance on memory and perceptual tasks
+
+chronic fatigue or mental exhaustion decreases a person’s self-control and decision-making ability, making them more likely to impulsively cheat than their better-rested colleagues
+
+she found that timing your nap can affect the balance of light sleep, REM sleep, and slow-wave sleep, and shape the kinds of benefits you get from it.
+
+WHILE LOTS OF active and creative people have discovered that naps help them recharge, a few use naps to generate insights
+
+It is precisely during this sleep,” he says, “that you will secretly, in the very depths of your spirit, solve most of its subtle and complicated technical problems, which in your state of waking consciousness you would never be humanly capable of solving
+
+these moments between consciousness and sleep the hypnagogic sleep state (from the Greek hupnos, “sleep,” and agōgos, “leading to”). It’s like REM sleep, Montreal psychologist Michelle Carr explains: REM sleep and hypnagogia are both states in which “the mind is fluid and hyperassociative” and can more easily “bring together distant ideas in a new way
+
+For all three, hypnagogic imagery appears after a period of preparation, as Graham Wallas described
+
+Naps are powerful tools for recovering our energy and focus. We can even learn to tailor them to give us more of a creative boost, or provide more physical benefit, or explore the ideas that emerge at the boundary between consciousness and sleep
+
+COUNTERINTUITIVE BUT EFFECTIVE form of deliberate rest is to stop working at just the right point: to see your next move, but leave it until tomorrow
+
+mathematician John Littlewood noted that while “the natural impulse towards the end of a day’s work is to finish the immediate job,” it was preferable to “try to end in the middle of something,” since it was always easier to start the morning by going over “the latter part of the previous day’s work
+
+Many writers start their careers believing that the best work is done in bursts of inspiration only to discover that they do higher-quality work and get more done if they pace themselves
+
+For Stephenson, McPhee, and Murakami, getting deeply immersed for long periods in their work is not a problem; the challenge is to turn that potentially destructive force into a sustainable source of creative energy
+
+The experiment showed that having “a break during which one works on a completely different task is more beneficial for idea production than working on a similar task or generating ideas continuously
+
+Not only that, a sleep deficit of less than an hour a night led to declines greater than those seen in comparable groups tested in a sleep lab. This suggests that laboratory studies might be underestimating the impact of sleep loss and that in the real world, the added stresses of making decisions, picking up kids, and trying to lead a normal life amplify the effects of sleep loss
+
+at the end of the day, theoretical physicist Hans Bethe would talk with collaborators about the next day’s work as a way of priming his sleeping mind. Linus Pauling made the practice of “thinking about certain scientific problems as [he] lay in bed, waiting to go to sleep” part of his problem-solving process. It might take weeks or months, but eventually the solution “would burst into [his] consciousness
+
+This kind of break from work—the kind that allows what sociologists call detachment, the ability to put work completely out of your mind and attend to other things—turns out to be tremendously important as a source of mental and physical recovery from work.
+
+emotional exhaustion, depersonalization, and a reduced sense of accomplishment (the three major symptoms of burnout)
+
+For writers, scientists, and entrepreneurs, delaying vacations can also mean passing up opportunities for creative breakthroughs
+
+Sonnentag and her colleagues argue that there are four major factors that contribute to recovery: relaxation, control, mastery experiences, and mental detachment from work
+
+Relaxation is the most straightforward of the four to understand: it’s an activity that’s pleasant and undemanding
+
+Control and mastery experiences are more interesting. In the context of recovery, control means having the power to decide how you spend your time, energy, and attention
+
+Mastery experiences are engaging, interesting things that you do well. They’re often challenging, but this makes them mentally absorbing and all the more rewarding when you do them well. (These don’t just make your vacation better
+
+For people working in highly uncertain jobs, having mastery experiences during breaks can be especially important
+
+So detachment—the ability to feel disconnected from the job—turns out to be important in determining how much you recover during breaks. This turns out to be as true for evenings and weekends as long vacations
+
+These results further undermine the idea that our mental energies refill with time, rather than through activities that promote recovery
+
+Rather than treating vacations as big, annual events that are completely separate from our working lives, taking shorter but more frequent vacations every few months provides greater levels of recovery
+
+We live in an era when we’re urged to be passionate about our work, to regard the boundary between work and life as an obsolete relic of the industrial age
+
+The best scientists showed “an unusual urge to experiment athletically as well as scientifically” and selected “athletic activities that could be carried from youth into old age
+
+Running seems to be particularly effective in stimulating neurogenesis
+
+Physical stamina is also as important for creative work as for manual labor. We often underestimate how physically demanding cognitive tasks can be, especially ones that require focus for hours at a time, but as novelist Haruki Murakami puts it, “finishing an entire book is closer to manual labor” and “requires far more energy, over a long period, than most people ever imagine.” He
+
+When we think of work and rest as opposites, or treat exercise as something that would be good to do when we finally have the time, we risk becoming like the low achievers in Eiduson’s group. Exercise helped Eiduson’s stars, and many other high-achieving communities, have long productive lives. We shouldn’t be surprised that people manage to be physically active and do world-class work. We should recognize that they do world-class work because they are physically active.
+
+It’s not like restoring a ’57 Chevy,” which has an ideal, original state, he says; it’s more like “an endless canvas that you can keep changing and working on.”
+
+Under the right conditions, hobbies and physical activities become what anthropologists and psychologists call “deep play,” activities that are rewarding on their own, but take on additional layers of meaning and personal significance. Play is one of the most important things we do
+
+Because play is voluntary, intrinsically rewarding, mentally and physically engaging, and imaginative, it’s often absorbing and effortless; even when it’s physically challenging or uncomfortable, it’s not difficult in the same way a hard day at work is.
+
+The term deep play was popularized by anthropologist Clifford Geertz, in a now-classic article about the deep meaning of Balinese cockfighting
+
+First, deep play is mentally absorbing. It offers the player challenges to face and problems to solve
+
+Second, deep play offers players a new context in which to use some of the same skills that they use in their work
+
+Third, deep play offers some of the same satisfaction as work, but it also offers different, clearer rewards thanks to differences in media or scale or pace
+
+Finally, deep play provides a living connection to the player’s past.
+
+the appeal of the art in a small book helpfully titled Painting as a Pastime. Busy people need to cultivate forms of rest, he began, but are temperamentally unable to simply do nothing. “It is not enough merely to switch off the lights which play upon the main and ordinary field of interest,” he argued. “A new field of interest must be illuminated.” Fortunately, “the tired parts of the mind can be rested and strengthened, not merely by rest, but by using other parts.”
+
+For creative and prolific people, seeing outside activities as expressions of the same interests that guide their professional lives builds a bridge between the worlds of work and rest and helps turn these activities into deep play. For Michelson and other creative figures, deep play didn’t compete with work; it was a way to express the same fascination with nature, need to challenge one’s self, and passion for focus and concentration and problem-solving
+
+The ability to see rest and recreation as connected, even as part of a unified whole, was something that Bernice Eiduson and her successors observed in top-performing scientists
+
+Low achievers, in contrast, said nothing about serious hobbies. They “had none or found them irrelevant to their work.” Rather than discover the benefits of deep play, the less-accomplished members of Eiduson’s cohort assumed that they would do better work by doing more work—and their careers suffered for it.
+
+When he was CEO and chairman of Microsoft, Gates’s week away from the office—as well as from family and friends (from everyone, in fact, save an unobtrusive cook and caretaker)—took place in a small waterfront cottage with a view of the Olympic Mountains, in western Washington
+
+The peacetime army lacked what historian Josiah Bunting III calls a “culture of what we may call ‘visible busyness,’” and they took advantage of this slower pace to give themselves “leisure to think, to ponder, to write.”
+
+Wallas would labor on the project for more than two years, but The Art of Thought took shape during that trip.
+
+ONE COMMON FEATURE of the travels and sabbaticals of Sagmeister, Engelbart, Penfield, Lovelock, and Wallas is that they mix alien and familiar elements. Sagmeister consciously sought out new locations that could provide stimulation and renewal
+
+They found that bicultural engineers were promoted faster and had better reputations among their bosses and peers. In an industry that prizes the ability to be innovative, to get inside the minds of your customers, and to spot new opportunities, biculturalism made a measurable difference in who got ahead
+
+Breadth and cultural distance gave designers a creative boost early on, but in the long run, depth—how long they spent living abroad—was most important
+
+However, even a short period working abroad was better than nothing: the worst thing a creative designer could do was play it safe and stay home
+
+The most fruitful sabbaticals, like other forms of deliberate rest, are active
+
+Finally, while we usually think of sabbaticals as long (perhaps prohibitively so), they don’t have to be
+
+Yet a weeklong sabbatical can be restorative when done skillfully, and even a monthlong sabbatical can be life-changing.
+
+Rest doesn’t just magically appear when we need it, especially in today’s busy world. Taking rest seriously requires recognizing its importance, claiming our right to rest, and carving out and defending space for rest in our daily lives. We have to choose to make an earlier start to the day to earn time to rest later; we have to reserve space on the daily calendar for a walk, or keep time free on the weekends for a hobby or sport; we must arrange our finances and business affairs so we can take a sabbatical.
+
+Protecting time for rest also forces you to consider whether a new opportunity, request for a favor, or demand on your time is really worth it.
+
+So deliberate rest helps organize your life. It also helps calm your life
+
+Today’s workplace moves us backward, and weakens our spirit. It is a mistake to assume that the most frazzled and panicked workers are the most serious. As William James wrote in “The Gospel of Relaxation,” “eagerness, breathlessness, and anxiety are not signs of strength: they are signs of weakness and of bad coordination.”
+
+One of the more remarkable findings in the Eiduson study is that the most successful scientists saw their work and leisure as connected and mutually supportive, and expressed fewer anxieties about time pressure. For the top performers, swimming or hiking didn’t compete with their time in their laboratory, and they didn’t feel that the time they spent on deliberate rest was stolen from more productive things. They were careful not to spend too much time outdoors or pursuing hobbies, but for them, work and rest were all part of a whole.
+
+Indeed, world-class performers often are more likely to call themselves “lazy” than their less-accomplished peers. This isn’t just false modesty. Because they seek out forms of rest that give their conscious minds a break and provide a mental and psychological boost but leave their subconscious minds free to run through ideas, test and reject possibilities, and home in on a solution, their sense of how much time they work and how much time they have at their disposal differs from that of their less-successful colleagues
+
+William Osler, warned that without care, “good men are ruined by success in practice,” and that “ever-increasing demands” can leave even the most curious person “worn out, yet not able to rest.” It was essential to develop “some intellectual pastime which may serve to keep you in touch with the world of art, of science, or of letters.”
+
+But when I tallied up the ages of the figures I discuss here, I was surprised to find that many of them lived well into their eighties and were active almost until the end
+
+In his essay on recreation published in his 1895 book The Use of Life, John Lubbock makes a distinction between idleness and leisure: “Leisure is one of the grandest blessings, idleness one of the greatest curses,” he argues, and “one is the source of happiness, the other of misery.” Rest, he argues, is often mistaken for idleness, but it is not.
