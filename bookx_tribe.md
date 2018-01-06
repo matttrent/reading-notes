@@ -1,4 +1,6 @@
 ---
+title: Tribe
+author: Sebastian Junger
 index:  {
     tribal society: [2, 9, 14, 15, 17, 19, 26, 77, 78, 101],
     western society: [9, 16, 18, 19, 21, 23, 90, 91, 93, 94, 109, 116, 124],
@@ -14,7 +16,7 @@ index:  {
 }
 ---
 
-# bookx tribe
+# Tribe
 
 Humans don't mind hardship, in fact they thrive on it; what they mind is not feeling necessary.  Modern society has perfected the art of making people not feel necessary.
 

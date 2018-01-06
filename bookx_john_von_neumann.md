@@ -1,4 +1,9 @@
-# bookx john von neumann
+---
+title: John von Neumann
+author: Norman Macrae
+---
+
+# John von Neumann
 
 He was puzzled that most other thoughtful people had not noticed that resentment by anybody--from a Nobel Prize-winning colleague, to the president of the United States, or to a waiter--would usually hamper whatever thoughtful people wanted next to or do.
 

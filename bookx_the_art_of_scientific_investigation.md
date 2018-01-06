@@ -1,4 +1,9 @@
-# bookx the art of scientific investigation
+---
+title: The Art of Scientific Investigation
+author: W. I. B. Beveridge
+---
+
+# The Art of Scientific Investigation
 
 Elaborate apparatus plays an important part in the science of to-day, but I sometimes wonder if we are not inclined to forget that the most important instrument in research must always be the mind of man.
 

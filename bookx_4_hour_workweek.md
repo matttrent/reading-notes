@@ -1,4 +1,9 @@
-# bookx 4 hour workweek
+---
+title: 4 Hour Work-week
+author: Tim Ferriss
+---
+
+# 4 Hour Work-week
 
 ## rules that change rules
 

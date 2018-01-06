@@ -1,4 +1,9 @@
-# bookx the willpower instinct
+---
+title: The Willpower Instinct
+author: Kelly McGonigal
+---
+
+# The Willpower Instinct
 
 ## summary
 

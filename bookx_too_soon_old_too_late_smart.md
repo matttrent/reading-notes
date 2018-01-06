@@ -1,4 +1,9 @@
-# bookx too soon old too late smart
+---
+title: Too Soon Old Too Late Smart
+author: Gordon Livingston
+---
+
+# Too Soon Old Too Late Smart
 
 **If the map doesn't agree with the ground, the map is wrong.**
 

@@ -1,4 +1,9 @@
-# bookx triumphs of experience
+---
+title: Triumphs of Experience
+author: George Vaillant
+---
+
+# Triumphs of Experience
 
 >   No man ever steps into the same river twice; for it is not the same river 
 >   and he is not the same man.

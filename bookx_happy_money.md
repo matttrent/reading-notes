@@ -1,4 +1,9 @@
-# bookx happy money
+---
+title: Happy Money
+author: Elizabeth Dunn and Michael Norton
+---
+
+# Happy Money
 
 ## buy experiences
 

@@ -1,4 +1,9 @@
-# bookx superforecasting
+---
+title: Superforecasting
+author: Philip Tetlock
+---
+
+# Superforecasting
 
 ## ten commandments for aspiring superforecasters
 

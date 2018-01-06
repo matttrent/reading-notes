@@ -1,3 +1,10 @@
+---
+author: John Kruschke
+title: Doing Bayesian Data Analysis
+---
+
+# Doing Bayesian Data Analysis
+
 ## major domains of statistics
 
 1. inference (causal determination) aka hypothesis testing (right name?)

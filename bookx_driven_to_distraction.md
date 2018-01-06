@@ -1,4 +1,9 @@
-# bookx driven to distraction
+---
+author: Edward Hallowell
+title: Driven to Distraction 
+---
+
+# Driven to Distraction
 
 ## suggested diagnostic criteria for adult adhd
 

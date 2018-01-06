@@ -3,7 +3,7 @@ author: Cal Newport
 title: Deep Work
 ---
 
-# bookx deep work
+# Deep Work
 
 __Deep Work:__ Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit.  These efforts create new value, improve your skill and are hard to replicate.
 

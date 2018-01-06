@@ -2,8 +2,7 @@
 asset_id: 1030D531893C54D2C59DFB3E88ACA178
 author: Isaacson Walter
 modified_date: '2017-07-12T23:05:08'
-title: The Innovators How a Group of Inventors Hackers Geniuses and Geeks Created
-  the Digital Revolution
+title: The Innovators How a Group of Inventors Hackers Geniuses and Geeks Created the Digital Revolution
 ---
 
 # The Innovators How a Group of Inventors Hackers Geniuses and Geeks Created the Digital Revolution

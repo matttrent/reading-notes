@@ -1,4 +1,9 @@
-# bookx book of five rings
+---
+author: Miyamoto Musashi
+title: Book of Five Rings
+---
+
+# Book of Five Rings
 
 Musashi it would seem [is] concerned with the elimination of fear, and how to engage in life in a straightforward and unwavering manner.
 

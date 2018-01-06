@@ -1,4 +1,9 @@
-# bookx power of full engagement
+---
+title: Power of Full Engagement
+author: Jim Loehr and Tony Schwartz
+---
+
+# Power of Full Engagement
 
 ## Objective 
 

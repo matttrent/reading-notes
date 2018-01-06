@@ -1,3 +1,8 @@
+---
+title: Play
+author: Stuart Brown and Christopher Vaughan
+---
+
 # Play
 
 ## Take your play history

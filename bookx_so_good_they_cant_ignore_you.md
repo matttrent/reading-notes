@@ -1,4 +1,9 @@
-# bookx so good they can't ignore you
+---
+title: So Good They Gan't Ignore You
+author: Cal Newport
+---
+
+# So Good They Gan't Ignore You
 
 ## Rule 1: don't follow your passion
 

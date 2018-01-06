@@ -1,3 +1,7 @@
+---
+title: Mindfulness in Plain English
+author: Bhante Henepola Gunaratana
+---
 
 # Mindfulness in Plain English
 

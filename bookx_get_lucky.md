@@ -1,4 +1,9 @@
-# get lucky
+---
+title: Get Lucky
+author: Thor Muller and Lane Becker
+---
+
+# Get Lucky
 
 ## skill 1: motion
 

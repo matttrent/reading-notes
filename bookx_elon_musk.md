@@ -1,4 +1,9 @@
-# bookx elon musk
+---
+author: Ashlee Vance
+title: Elon Musk 
+---
+
+# Elon Musk
 
 One of the scariest meetings was when we needed to ask Elon for extra 2 weeks and more money to build another version of the Model S.  We put together a plan, stating how long things would take and what they would cost.  We told him that if wanted the car in 30 days it would require hiring some new people, and we presented him with a stack of resumes.  You don't tell Elon you can't do something.
 

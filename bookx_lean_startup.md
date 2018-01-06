@@ -1,5 +1,9 @@
+---
+title: Lean Startup
+author: Eric Ries
+---
 
-# lean startup
+# Lean Startup
 
 ## introduction
 

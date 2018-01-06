@@ -1,4 +1,9 @@
-# bookx daily rituals
+---
+author: Mason Currey
+title: Daily Rituals
+---
+
+# Daily Rituals
 
 "Sooner or later," Pritchett writes, "the great men turn out to be all alike.  They never stop working.  They never lose a minute.  It's very depressing."
 

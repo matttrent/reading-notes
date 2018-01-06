@@ -1,4 +1,9 @@
-# bookx how to solve it
+---
+title: How to Solve It
+author: George Polya
+---
+
+# How to Solve It
 
 ## summary
 

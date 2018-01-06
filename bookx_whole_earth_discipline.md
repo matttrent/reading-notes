@@ -1,4 +1,9 @@
-# whole earth discipline
+---
+title: Whole Earth Discipline
+author: Stewart Brand
+---
+
+# Whole Earth Discipline
 
 The subtitle of the book covers most of it's thesis:
 

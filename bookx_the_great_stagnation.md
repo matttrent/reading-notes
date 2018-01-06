@@ -1,4 +1,9 @@
-# bookx the great stagnation
+---
+title: The Great Stagnation
+author: Tyler Cowen
+---
+
+# The Great Stagnation
 
 ## the low-hanging fruit we ate
 

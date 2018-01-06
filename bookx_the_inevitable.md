@@ -1,4 +1,9 @@
-# bookx the inevitable
+---
+title: The Inevitable
+author: Kevin Kelly
+---
+
+# The Inevitable
 
 Processes--the engines of flux--are now more important than products.  Our greatest invention in the past 200 years was not a particular gadget or tool but the invention of the scientific process itself.
 

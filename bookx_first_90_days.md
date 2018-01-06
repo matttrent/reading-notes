@@ -1,4 +1,9 @@
-# bookx first 90 days
+---
+title: First 90 Days
+author: Michael Watkins
+---
+
+# First 90 Days
 
 ## 1. Promote yourself
 

@@ -1,4 +1,7 @@
-Categories: books
+---
+title: The Encheiridion
+author: Epictetus
+---
 
 # The Encheiridion
 

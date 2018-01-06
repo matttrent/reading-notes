@@ -1,4 +1,9 @@
-# bookx the antidote
+---
+title: The Antidote
+author: Oliver Burkeman
+---
+
+# The Antidote
 
 ## on trying too hard to be happy
 

@@ -1,4 +1,9 @@
-# bookx how to live on 24 hours a day
+---
+title: How to Live on 24 Hours a Day
+author: Arnold Bennett
+---
+
+# How to Live on 24 Hours a Day
 
 Time is a great deal more than money.
 

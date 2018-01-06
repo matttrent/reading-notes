@@ -1,4 +1,9 @@
-# bookx the master algorithm
+---
+title: The Master Algorithm
+author: Pedro Domingos
+---
+
+# The Master Algorithm
 
 ## prologue
 

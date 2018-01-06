@@ -1,4 +1,9 @@
-# bookx how to read a book
+---
+title: How to Read a Book
+author: Mortimer J. Adler
+---
+
+# How to Read a Book
 
 ## primary steps to analyzing a book
 
