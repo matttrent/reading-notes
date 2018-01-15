@@ -30,7 +30,7 @@ Musk had 5 areas he thought would most affect humanity and he wanted to reach in
 >
 >   -- George Land
 
-One of the highest value thigns you can do is to constantly be updating your own mental software.  Regularly evaluate what you want and what is possible from first principles.  And test it constantly.
+One of the highest value things you can do is to constantly be updating your own mental software.  Regularly evaluate what you want and what is possible from first principles.  And test it constantly.
 
 Unless we are incredibly dilligent, we end up accepting programming handed down to use without questioning it.  At best it's a generation out of date.
 

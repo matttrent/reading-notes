@@ -1,9 +1,9 @@
 ---
-title: 4 Hour Work-week
+title: 4 Hour Workweek
 author: Tim Ferriss
 ---
 
-# 4 Hour Work-week
+# 4 Hour Workweek
 
 ## rules that change rules
 
