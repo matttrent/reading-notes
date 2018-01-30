@@ -1,7 +1,7 @@
 ---
 asset_id: 99F70021DE5B32AA05205934D4F5CA3F
 author: Oliver Sacks
-modified_date: '2018-01-14T01:19:07'
+modified_date: '2018-01-14T14:11:01'
 title: An Anthropologist on Mars Seven Paradoxical Tales
 ---
 
@@ -50,3 +50,8 @@ Stephen’s development has been singular, qualitatively different, from the sta
 ### An Anthropologist on Mars
 
 And her own mode of thinking allowed her no escape from these realities. “If you’re a visual thinker, it’s easier to identify with animals,” she said as we drove to the farm. “If all your thought processes are in language, how could you imagine that cattle think? But if you think in pictures
+
+on one thing since I am no longer driven. During the last four years I have written very few entries in my diary because the anti-depressant has taken away much of the fervor. With the passion subdued, my career and … business is going well. Since I am more relaxed, I get along better with people, and stress-related health problems, such as colitis, are gone. Yet if medication had been prescribed for me in my early twenties, I might not have accomplished as much as I have. The “nerves” and the fixations were great motivators until they tore my body apart with stress-related health problems.
+I was reminded, reading this, of what Robert Lowell once told me about being on lithium for his manic-depressive disorder: “I feel much ‘better,’ in a way, calmer, stabler—but my poetry has lost much of its force.” While Temple, too, is well aware of the cost of being calmed down, she feels, at this point in her life, that it is well worth paying. Yet she sometimes misses the emotions, the frenzies, she once felt.
+
+“I get on the same wavelength as Tom,” Temple said, “though it’s a childish wavelength.” But, above all, she enjoys working with Tom—this, too, is “childish,” but a form of childishness that is essentially creative. “Tom and I are little children,” she said. “Concrete is grown-up mud, steel is grown-up cardboard, building is grown-up play.”
