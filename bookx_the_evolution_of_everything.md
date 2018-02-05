@@ -1,7 +1,7 @@
 ---
 asset_id: A249A4DC0D5693397550781EAEDE5D35
 author: Ridley Matt
-modified_date: '2018-01-01T21:54:15'
+modified_date: '2018-02-05T11:13:36'
 title: The Evolution of Everything How New Ideas Emerge
 ---
 
@@ -105,3 +105,23 @@ As with so much of modern life, the state has socialised the cost and privatised
 How is it possible that the Great Depression did not slow down technological progress? Why didn’t the great infusion of technology spending during World War II accelerate it?’
 
 It is the sea herself who fashions the boats
+
+the linear dogma so prevalent in the world of science and politics – that science drives innovation, which drives commerce – is mostly wrong. It misunderstands where innovation comes from. Indeed, it generally gets it backwards. Again and again, once you examine the history of innovation, you find scientific breakthroughs as the effect, not the cause, of technological change. It is no accident that astronomy blossomed in the wake of the age of exploration. The steam engine owed almost nothing to the science of thermodynamics, but the science of thermodynamics owed almost everything to the steam engine
+
+In both cases, technological advances were driven by practical men who tinkered till they had better machines; philosophical rumination was the last thing they did.
+
+There’s a much stronger flow the other way: new technologies give academics things to study.
+
+In 2003, the OECD published a paper on ‘sources of growth in OECD countries’ between 1971 and 1998, finding to its explicit surprise that whereas privately funded research and development stimulated economic growth, publicly funded research had no economic impact whatsoever
+
+### 8 The Evolution of the Mind
+
+Moreover, once you accept that the self is a bodily phenomenon, it is clear that the self is no more in charge of the body than steam is in charge of a kettle. The self is a consequence, not a cause, of thought
+
+### Epilogue: The Evolution of the Future
+
+bad news is manmade, top–down, purposed stuff, imposed on history. Good news is accidental, unplanned, emergent stuff that gradually evolves. The things that go well are largely unintended; the things that go badly are largely intended
+
+All the interesting things are incremental, says the psephologist Sir David Butler, and very few of the major changes in the statistics of human living standards of the past fifty years were the result of government action.
+
+Despite the obvious successes of unplanned markets, despite the spectacular rise of the Internet’s decentralized order, and despite the well-publicized new science of “complexity” and its study of self-organizing systems, it is still widely assumed that the only alternative to central authority is chaos.’
