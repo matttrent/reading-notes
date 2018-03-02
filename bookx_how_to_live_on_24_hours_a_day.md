@@ -15,7 +15,7 @@ Which of us is free from that uneasy feeling that the "great spending department
 
 The most important preliminary to the task of arranging one's life so that one may live fully and comfortably within one's daily budget of twenty-four hours is the calm realization of the extreme difficulty of the task.
 
-If you are not prepared for the discouragements and disillusions; if you will not be content with a small result for a big effort, then do not begin.  Beward of undertaking too much at the start.  Be content with quite a little.  Allow forr accidents.
+If you are not prepared for the discouragements and disillusions; if you will not be content with a small result for a big effort, then do not begin.  Beward of undertaking too much at the start.  Be content with quite a little.  Allow for accidents.
 
 The chief beauty about the constant supply of time is that you cannot waste it in advance.
 

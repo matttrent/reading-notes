@@ -5,11 +5,9 @@ author: George Vaillant
 
 # Triumphs of Experience
 
->   No man ever steps into the same river twice; for it is not the same river 
->   and he is not the same man.
+>   No man ever steps into the same river twice; for it is not the same river and he is not the same man.
 >
 >   -- Heraclitus
-
 
 _Triumphs of Experience_ details the Grant Study, the most comprehensive longetivity study ever conducted, following 264 Harvard sophomores in 1938 all the way through their lives.
 
@@ -42,7 +40,7 @@ Correlated values:
 - empathic coping (defense) style -- very significant
 - warm adult relations 30-45 -- very significant
 
-The 58 men with the best scores for warm relationships had a maximum income of $243,000 a year, while the 31 men with the worst scores in relationships earned an average maximum salary of $102,000 a year.  The 12 men with the most mature coping styles reported a whopping $369,000 a year; and the the most immature styles a much more modest $159,000.  No difference between salaries of men with IQ of 110 vs IQ of 150+.
+The 58 men with the best scores for warm relationships had a maximum income of \$243,000 a year, while the 31 men with the worst scores in relationships earned an average maximum salary of \$102,000 a year.  The 12 men with the most mature coping styles reported a whopping \$369,000 a year; and the the most immature styles a much more modest \$159,000.  No difference between salaries of men with IQ of 110 vs IQ of 150+.
 
 These same variables were equally able to predict warm relationships at the end of life.  
 
@@ -63,7 +61,7 @@ There are 2 pillars to happiness revealed by the study.  One is love.  The other
 3. The most important influnce by far on a flourishing life is love.
 4. People really can change and people can grow.  Childhood need be neither destiny nor doom.
 5. It is the quality of a child's total experience, not any particular trauma or relationship, that exerts the clearest influence on adult development.  What goes right matter more than what goes wrong.
-6. If you follow lives long enough, they change, and so od the factors that affect healthy adjustment.
+6. If you follow lives long enough, they change, and so do the factors that affect healthy adjustment.
 
 The 75 years and $20 million expended on the Grant study point, at least to me, to a straightforward five-word conclusion: __"HAPPINESS IS LOVE. FULL STOP."__
 
