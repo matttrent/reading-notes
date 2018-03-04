@@ -23,8 +23,7 @@ The following is a common sequence in an investigation on a medical or biologica
 
 ## experimentation
 
-The basis of most biological experimentation is the controlled experiment, in which groups, to which individuals are assigned at random, are comparable in all respects except the treatment under investigation, allowance being made for the inherent variability of biological material. Two useful principles are to test the whole before the part, and to ehminate various possibilities systematically. In the execution of an experiment close attention to detail,
-careful note-taking and objectivity in the reading of results are important.
+The basis of most biological experimentation is the controlled experiment, in which groups, to which individuals are assigned at random, are comparable in all respects except the treatment under investigation, allowance being made for the inherent variability of biological material. Two useful principles are to test the whole before the part, and to ehminate various possibilities systematically. In the execution of an experiment close attention to detail, careful note-taking and objectivity in the reading of results are important.
 
 Biometrics is concerned with the planning of experiments as well as the interpretation of results. A basic concept in biometrics is that there is an infinitely large, hypothetical population of which the experimental group or data are a random sample. The difficulty presented by the inherent variability of biological material is circumvented by estimating the variability and taking it into account when assessing the results.
 
@@ -70,9 +69,7 @@ The origin of discoveries is beyond the reach of reason. The role of reason in r
 
 ## observation
 
-
-Accurate observation of complex situations is extremely difficult, and observers usually make many errors of which they are not conscious. Effective observation involves noticing something and giving it significance by relating it to something else noticed or already known; thus it contains both an element
-of sense-perception and a mental element.
+Accurate observation of complex situations is extremely difficult, and observers usually make many errors of which they are not conscious. Effective observation involves noticing something and giving it significance by relating it to something else noticed or already known; thus it contains both an element of sense-perception and a mental element.
 
 It is impossible to observe everything, and so the observer has to give most of his attention to a selected field, but he should at the same time try to watch out for other things, especially anything odd.
 
@@ -90,8 +87,7 @@ Tactics are best worked out by the worker engaged on the problem. He should also
 
 When discoveries are transferred to another field of science they are often instrumental in uncovering still further knowledge. I have given some hints on how best to go about the various activities that constitute research, but explicit rules cannot be laid down because research is an art.
 
-The general strategy of research is to work with some clear object in view but nevertheless to keep alert for and seize any
-unexpected opportunities.
+The general strategy of research is to work with some clear object in view but nevertheless to keep alert for and seize any unexpected opportunities.
 
 ## scientists
 
