@@ -1,7 +1,7 @@
 ---
 asset_id: 74B2880BF9B64DAF5EE53F68D72562CF
 author: Ralph Waldo Emerson
-modified_date: '2017-03-17T03:48:56'
+modified_date: '2018-03-22T07:24:42'
 title: Self-Reliance
 ---
 
@@ -78,3 +78,7 @@ There is a time in every man’s education when he arrives at the conviction tha
 There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given to him to till
 
 These are the voices which we hear in solitude, but they grow faint and inaudible as we enter into the world. Society everywhere is in conspiracy against the manhood of every one of its members
+
+Well, most men have bound their eyes with one or another handkerchief, and attached themselves to some one of these communities of opinion
+
+For nonconformity the world whips you with its displeasure

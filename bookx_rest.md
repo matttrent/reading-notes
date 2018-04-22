@@ -1,7 +1,7 @@
 ---
 asset_id: 8A552A27BAF9AF4C7919527C7B5BACDD
 author: Alex SoojungKim Pang
-modified_date: '2017-12-11T12:05:18'
+modified_date: '2018-03-06T15:58:48'
 title: Rest
 ---
 
@@ -15,9 +15,17 @@ By Alex SoojungKim Pang
 
 ## iBooks notes <a name="ibooks_notes_dont_delete"></a>
 
-### 
+HIS IS A BOOK about work. It is also, of course, a book about rest. This sounds paradoxical, but it illustrates the book’s central idea.
 
 As a result, we see work and rest as binaries. Even more problematic, we think of rest as simply the absence of work, not as something that stands on its own or has its own qualities
+
+First, work and rest are partners.
+
+Second, rest is active.
+
+Third, rest is a skill.
+
+Finally, deliberate rest stimulates and sustains creativity.
 
 No longer could scientists afford to “concentrate for extended periods of time on one subject” or think deeply “in the silence of the study, confident that rivals would not disrupt their tranquil meditations
 
